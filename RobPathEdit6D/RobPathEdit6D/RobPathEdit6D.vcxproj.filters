@@ -48,6 +48,9 @@
     <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\SegmentSequencer.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Maria_test.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\BmpHandler.cpp">
