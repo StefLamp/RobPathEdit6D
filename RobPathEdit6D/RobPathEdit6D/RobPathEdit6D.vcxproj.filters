@@ -14,4 +14,77 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\bitmap_image.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\BmpHandler.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\ImgProcessor.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Line2D.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\PathBuilder.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Point2D.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Point3D.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\PointSequencer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\RobCodeGenerator.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\SegmentApproximator.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\SegmentSequencer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\BmpHandler.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\ImgProcessor.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Line2D.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\PathBuilder.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Point2D.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\Point3D.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\PointSequencer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\RobCodeGenerator.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\RobPathEditor.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\SegmentApproximator.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\SegmentSequencer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Studium\Dokumente\6. Semester\Software Engineering Informatik-Projekt\Software\RobPathEditor_v1 - Kopie\RobPathEditor\RobPathEditor\test.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
