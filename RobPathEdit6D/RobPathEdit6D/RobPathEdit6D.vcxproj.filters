@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Maria_test.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
-    <ClInclude Include="myHeader.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
     <ClInclude Include="bitmap_image.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
