@@ -7,7 +7,7 @@
     </Filter>
     <Filter Include="Headerdateien">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
     </Filter>
     <Filter Include="Ressourcendateien">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
@@ -27,25 +27,25 @@
     <ClInclude Include="Line2D.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="PathBuilder.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
     <ClInclude Include="Point2D.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="Point3D.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
     <ClInclude Include="PointSequencer.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
-    <ClInclude Include="RobCodeGenerator.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="SegmentApproximator.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
     <ClInclude Include="SegmentSequencer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PathBuilder.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="RobCodeGenerator.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Point3D.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
@@ -59,19 +59,10 @@
     <ClCompile Include="Line2D.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="PathBuilder.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
     <ClCompile Include="Point2D.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="Point3D.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
     <ClCompile Include="PointSequencer.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="RobCodeGenerator.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="RobPathEditor.cpp">
@@ -81,6 +72,15 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="SegmentSequencer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PathBuilder.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="RobCodeGenerator.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Point3D.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
